@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"ProductName": "Gabinete Eagle Warrior",
+		"ProductNo": 75013,
+		"Price": 2500,
+		"PriceN": 900,
+		"Description": "Gabinete amplio ATX - Micro ATX"
+	},
+	{
+		"id": 2,
+		"ProductName": "Ryzen 3",
+		"ProductNo": 3270,
+		"Price": 1500,
+		"PriceN": 600,
+		"Description": "Ryzen 3 2700U 4 nucleos fisico 3.1 MH"
+	},
+	{
+		"id": 3,
+		"ProductName": "Ryzen 5",
+		"ProductNo": 5270,
+		"Price": 2500,
+		"PriceN": 1000,
+		"Description": "Ryzen 5 2700U 6 nucleos fisico 3.4 MH"
+	},
+	{
+		"id": 4,
+		"ProductName": "Ryzen 7",
+		"ProductNo": 7270,
+		"Price": 3500,
+		"PriceN": 1500,
+		"Description": "Ryzen 7 2700U 8 nucleos fisico 4.1 MH"
+	}
+]
